@@ -9,7 +9,7 @@ If there are any [false positives](https://en.wikipedia.org/wiki/False_positives
 Here is the checksum (sha256) for this file. MAKE SURE THIS IS THE EXACT ONE OR YOU MIGHT BE DOWNLOADING A HACKED CLIENT!
 The one on the `releases` page will be this by default.
 
--- `dd053a5c8d9c324e1dc67deb52ef87f87ff5aeeb9eccbfa386283150cd3b9552`
+-- `d80222b862de697e716c36bd4f5aea236bc491053769683d46ad102bf1c4684d`
 (may take a bit to update per each new version)
 
 OPEN SOURCE COMIGN SOON! BUG FIXES NEEDED FIRST!
