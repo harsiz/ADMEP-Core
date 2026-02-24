@@ -13,3 +13,7 @@ The one on the `releases` page will be this by default.
 (may take a bit to update per each new version)
 
 OPEN SOURCE COMIGN SOON! BUG FIXES NEEDED FIRST!
+
+## Download
+
+[Releases](https://github.com/harsiz/ADMEP-Core/releases)
